@@ -7,6 +7,4 @@ the investable universe, indexed and explainable, with audit-grade provenance
 on every metric. Independent contractor through Nomior LLC (US), working with
 US and EU clients.
 
-Python · TypeScript · FastAPI · React · Three.js · RAG · Snowflake · Neo4j
-
 [nomior.com](https://nomior.com) · [LinkedIn](https://linkedin.com/in/ivanmyshko)
